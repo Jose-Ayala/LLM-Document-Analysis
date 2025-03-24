@@ -33,6 +33,6 @@ The main goal of this project is to:
 ```plaintext
 SEC 8-K Filing Analysis/
 ├── SEC 8-K Analysis.ipynb       # Jupyter Notebook with the complete analysis
-├── SEC 8-K Analysis.csv         # Initial raw data (if applicable)
+├── SEC 8-K Analysis.csv         # Initial raw data
 ├── SEC 8-K Analysis Filtered.csv # Final filtered data after processing
 ├── README.md                    # Project overview and instructions
