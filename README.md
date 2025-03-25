@@ -36,3 +36,12 @@ SEC 8-K Filing Analysis/
 ├── SEC 8-K Analysis.csv               # Initial raw data
 ├── SEC 8-K Analysis Filtered.csv      # Final filtered data after processing
 ├── README.md                          # Project overview and instructions
+
+```
+## Project Results
+This project demonstrated the application of NER and LLMs for extracting structured
+information from SEC 8-K filings. Despite successfully processing many filings, the lack of new
+product information in the filings was the major limitation. Nonetheless, the methodology
+employed was effective in extracting structured information when available. The structured
+output file can provide valuable insights for companies where new product data is included in
+the filings.  
